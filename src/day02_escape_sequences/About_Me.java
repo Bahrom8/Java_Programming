@@ -7,8 +7,6 @@ public class About_Me {
         System.out.println("\tMy favorite book is \"The Rich Dad and Poor Dad\"\n\tMy favorite quote is \"No Pain No Gain\"\n" +
                 "\tMy favorite TV show is \"Talent Show\"\n\tMy favorite music is Hip Hop");
 
-
-
     }
 }
 /*

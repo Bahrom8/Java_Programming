@@ -12,7 +12,5 @@ public class Println_vs_Print {
         System.out.print("Hello Everyone");
         System.out.print("How are you today?");
 
-
-
     }
 }

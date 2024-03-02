@@ -20,7 +20,6 @@ public class Escape_Sequences {
         System.out.println("My favorite TV show is \"The Walking Dead\"");
 
 
-
     }
 
 }

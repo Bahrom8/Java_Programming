@@ -10,6 +10,5 @@ public class Error_Printing {
         //short-cut --> serr+Enter
 
 
-
     }
 }

@@ -12,7 +12,6 @@ public class EmployeeInfo {
      System.out.println("Salary:    $95000");
 
 
-
     }
 
 
