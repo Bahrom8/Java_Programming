@@ -21,6 +21,7 @@ public class Replace_variable_name {
         System.out.println(salary);
 
 
+
     }
 
 }

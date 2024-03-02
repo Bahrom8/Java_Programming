@@ -6,7 +6,6 @@ public class Variable_Naming_Rules {
         // age of student is 28
         // salary is $10000
 
-
         int age = 28;
         int salary = 10000;
 
