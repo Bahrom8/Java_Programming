@@ -11,7 +11,6 @@ public class Cigarettes {
             System.out.println("You are not eligible to buy cigarettes");
         }
 
-
     }
 }
 
