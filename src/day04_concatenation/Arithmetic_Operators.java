@@ -36,7 +36,5 @@ public class Arithmetic_Operators {
 
 
 
-
-
     }
 
