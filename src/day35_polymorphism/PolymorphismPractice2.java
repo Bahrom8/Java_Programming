@@ -6,6 +6,7 @@ import day33_abstraction.EmployeeTask.*;
 public class PolymorphismPractice2 {
     public static void main(String[] args) {
 
+
         Employee[] employees = {
                 new Tester("Hamza", 32, 'M', "A01", "QA", 110000),
                 new Developer("Lucy", 27, 'F', "A02", "Java Developer", 128000, "Java"),
